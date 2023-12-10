@@ -1,0 +1,1 @@
+Generator of normal distribution numbers interval (0;1).

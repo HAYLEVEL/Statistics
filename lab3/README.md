@@ -1,0 +1,1 @@
+Added the ability to search new characteristic samples. See lab2.

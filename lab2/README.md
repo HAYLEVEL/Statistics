@@ -1,0 +1,1 @@
+Data analysis and some characteristic graphs of the sample.
